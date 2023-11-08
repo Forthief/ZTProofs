@@ -1,0 +1,9 @@
+default rpc,
+Example,
+  {
+      <class rpc.infra;
+      <rpc  open.escan;
+      <rpc  clos.nil;
+counters
+    <dev es.nod.js;
+  }
