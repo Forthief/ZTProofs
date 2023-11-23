@@ -6,4 +6,5 @@ Example,
       <rpc  clos.nil;
 counters
     <dev es.nod.js;
+    <api.indivudual;
   }
