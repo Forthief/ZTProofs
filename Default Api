@@ -1,5 +1,6 @@
+import.sol.*
 default rpc,
-Example,
+method,
   {
       <class rpc.infra;
       <rpc  open.escan;
@@ -8,3 +9,5 @@ counters
     <dev es.nod.js;
     <api.indivudual;
   }
+inhert method
+{ for(class)}:
